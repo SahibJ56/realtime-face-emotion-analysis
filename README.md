@@ -1,6 +1,5 @@
-# realtime-face-emotion-analysis
+# Real-time Face Detection and Emotion Analysis System
 
-### Project Title: Real-time Face Detection and Emotion Analysis System
 
 ### Project Summary:
 Developed and implemented a real-time computer vision system in Google Colab for robust face detection and emotion recognition from live webcam feeds, demonstrating expertise in deep learning model integration and front-end interaction for dynamic data capture.
